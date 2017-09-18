@@ -60,7 +60,6 @@ Petergate access(Seller, Buyer, All-Access, Admin)
 |Buyer Login   |Create Item   |View Items   |   |Dashboard of some-sort   |
 |How it Works   |View My Items   |View Bids   |   |   |
 |About Us   |Edit Profile   |Search Items   |   |   |
-||||||
 
 ## Seller
 
