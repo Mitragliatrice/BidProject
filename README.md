@@ -69,6 +69,7 @@ Petergate access(Seller, Buyer, All-Access, Admin)
 |Profile   |   |CRUD   |   |   |
 |||Choose Bid|||
 ||||||
+
 ## Buyer
 |Home|View Items|Current Bids|Edit Profile|Search Items|
 |---|---|---|---|---|---|
@@ -76,6 +77,7 @@ Petergate access(Seller, Buyer, All-Access, Admin)
 |Bids Won|Make Bid|CRUD|View Rating  |   | 
 |Pay for Bids Won|Pay for Bids Won|   |View Feedback   |   | 
 |   ||   |   |   | 
+
 ## Landing Page
 |Seller Login|Buyer Login|Contact Us|About Us|How it Works|
 |---|---|---|---|---|
