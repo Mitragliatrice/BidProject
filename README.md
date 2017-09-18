@@ -53,6 +53,7 @@ Petergate access(Seller, Buyer, All-Access, Admin)
   - belongs_to user
 
 ## Pages
+
 | Landing Page  |Seller   |Buyer   |*All Access   |*Admin    |
 |---|---|---|---|---|
 |Seller Login   |Home   |Home   |Home   |Home   |
@@ -62,24 +63,27 @@ Petergate access(Seller, Buyer, All-Access, Admin)
 ||||||
 
 ## Seller
+
 |Home|Create Item|My Items|Edit Profile|
-|---|---|---|---|---|
-|All My Items|Form   |Index|Personal   |   |
+|---|---|---|---|
+|All My Items|Form   |Index|Personal   |
 |New Item Btn   |Address Links to Map   |Create New|Financial   |
-|Profile   |   |CRUD   |   |   |
-|||Choose Bid|||
+|Profile   |   |CRUD   |   | 
+|||Choose Bid||
 
 
 
 ## Buyer
+
 |Home|View Items|Current Bids|Edit Profile|Search Items|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |Current Bids w/Time Left|Filterable Index of Items|Index My Bids   |Same as Seller   |Direct Search|
-|Bids Won|Make Bid|CRUD|View Rating  |   | 
-|Pay for Bids Won|Pay for Bids Won|   |View Feedback   |   | 
+|Bids Won|Make Bid|CRUD|View Rating  |
+|Pay for Bids Won|Pay for Bids Won|   |View Feedback   |
 
 
 ## Landing Page
+
 |Seller Login|Buyer Login|Contact Us|About Us|How it Works|
 |---|---|---|---|---|
 |Login Form|Login Form|Basic Company Contact|Why we exist|Brief Instructions   |
