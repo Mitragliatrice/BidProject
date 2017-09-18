@@ -1,6 +1,6 @@
 # == Schema Information
 #
-# Table name: users
+# Table name: sellers
 #
 #  id                     :integer          not null, primary key
 #  email                  :string           default(""), not null
@@ -18,11 +18,11 @@
 #
 # Indexes
 #
-#  index_users_on_email                 (email) UNIQUE
-#  index_users_on_reset_password_token  (reset_password_token) UNIQUE
+#  index_sellers_on_email                 (email) UNIQUE
+#  index_sellers_on_reset_password_token  (reset_password_token) UNIQUE
 #
 
-class User < ApplicationRecord
+class Seller < ApplicationRecord
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable and :omniauthable
   devise :database_authenticatable, :registerable,

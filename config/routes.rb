@@ -10,7 +10,8 @@
 # 
 
 Rails.application.routes.draw do
-  devise_for :users
+  devise_for :buyers
+  devise_for :sellers
   get 'director', to: 'static_pages#landing'
 
   get 'home', to: 'static_pages#home'
