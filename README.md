@@ -68,7 +68,8 @@ Petergate access(Seller, Buyer, All-Access, Admin)
 |New Item Btn   |Address Links to Map   |Create New|Financial   |
 |Profile   |   |CRUD   |   |   |
 |||Choose Bid|||
-||||||
+
+
 
 ## Buyer
 |Home|View Items|Current Bids|Edit Profile|Search Items|
@@ -76,11 +77,10 @@ Petergate access(Seller, Buyer, All-Access, Admin)
 |Current Bids w/Time Left|Filterable Index of Items|Index My Bids   |Same as Seller   |Direct Search|
 |Bids Won|Make Bid|CRUD|View Rating  |   | 
 |Pay for Bids Won|Pay for Bids Won|   |View Feedback   |   | 
-|   ||   |   |   | 
+
 
 ## Landing Page
 |Seller Login|Buyer Login|Contact Us|About Us|How it Works|
 |---|---|---|---|---|
 |Login Form|Login Form|Basic Company Contact|Why we exist|Brief Instructions   |
 |   |   |Map|   |FAQ|
-|||||
